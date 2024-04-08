@@ -126,8 +126,10 @@ Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]
 ![[Guyana/Flag_of_Guyana.svg|350]] 
 [Alcohol-l::9.5] 
 [Language-Id::499] 
-[geo-lon::-58.17] 
-[geo-lat::6.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-58.17] 
+[has_place_latitude::6.78] 
 
 
 

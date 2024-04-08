@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-58.17] 
-[geo-lat::6.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-58.17] 
+[has_place_latitude::6.78] 
 [name::Georgetown] 
 State ::  
 Country :: [[../../../../Guyana]]  
