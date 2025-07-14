@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\GuyanaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Guyana/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\GuyanaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Guyana/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\GuyanaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Guyana/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\GuyanaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Guyana/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\GuyanaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Guyana/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\GuyanaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Guyana/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Guyana/License.secret.md)
 

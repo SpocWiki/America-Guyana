@@ -132,15 +132,17 @@ Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\GuyanaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Guyana/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\GuyanaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Guyana/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\GuyanaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Guyana/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\GuyanaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Guyana/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\GuyanaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Guyana/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\GuyanaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Guyana/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Guyana/ReadMe.secret.md)
 

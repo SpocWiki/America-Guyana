@@ -41,15 +41,17 @@ markerFolder: ./Demerara-Mahaica/
 
 ## Confidential Links & Embeds: 
 
-### [Demerara-Mahaica.public](/_public/\Earth\Continent\America~South\Guyana\Regions~GuyanaDemerara-Mahaica.public.md) 
+### [Demerara-Mahaica](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Demerara-Mahaica.md) 
 
-### [Demerara-Mahaica.internal](/_internal/\Earth\Continent\America~South\Guyana\Regions~GuyanaDemerara-Mahaica.internal.md) 
+### [Demerara-Mahaica.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Demerara-Mahaica.public.md) 
 
-### [Demerara-Mahaica.protect](/_protect/\Earth\Continent\America~South\Guyana\Regions~GuyanaDemerara-Mahaica.protect.md) 
+### [Demerara-Mahaica.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Demerara-Mahaica.internal.md) 
 
-### [Demerara-Mahaica.private](/_private/\Earth\Continent\America~South\Guyana\Regions~GuyanaDemerara-Mahaica.private.md) 
+### [Demerara-Mahaica.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Demerara-Mahaica.protect.md) 
 
-### [Demerara-Mahaica.personal](/_personal/\Earth\Continent\America~South\Guyana\Regions~GuyanaDemerara-Mahaica.personal.md) 
+### [Demerara-Mahaica.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Demerara-Mahaica.private.md) 
 
-### [Demerara-Mahaica.secret](/_secret/\Earth\Continent\America~South\Guyana\Regions~GuyanaDemerara-Mahaica.secret.md)
+### [Demerara-Mahaica.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Demerara-Mahaica.personal.md) 
+
+### [Demerara-Mahaica.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Demerara-Mahaica.secret.md)
 

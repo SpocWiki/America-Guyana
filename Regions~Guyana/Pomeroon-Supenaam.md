@@ -41,15 +41,17 @@ markerFolder: ./Pomeroon-Supenaam/
 
 ## Confidential Links & Embeds: 
 
-### [Pomeroon-Supenaam.public](/_public/\Earth\Continent\America~South\Guyana\Regions~GuyanaPomeroon-Supenaam.public.md) 
+### [Pomeroon-Supenaam](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Pomeroon-Supenaam.md) 
 
-### [Pomeroon-Supenaam.internal](/_internal/\Earth\Continent\America~South\Guyana\Regions~GuyanaPomeroon-Supenaam.internal.md) 
+### [Pomeroon-Supenaam.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Pomeroon-Supenaam.public.md) 
 
-### [Pomeroon-Supenaam.protect](/_protect/\Earth\Continent\America~South\Guyana\Regions~GuyanaPomeroon-Supenaam.protect.md) 
+### [Pomeroon-Supenaam.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Pomeroon-Supenaam.internal.md) 
 
-### [Pomeroon-Supenaam.private](/_private/\Earth\Continent\America~South\Guyana\Regions~GuyanaPomeroon-Supenaam.private.md) 
+### [Pomeroon-Supenaam.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Pomeroon-Supenaam.protect.md) 
 
-### [Pomeroon-Supenaam.personal](/_personal/\Earth\Continent\America~South\Guyana\Regions~GuyanaPomeroon-Supenaam.personal.md) 
+### [Pomeroon-Supenaam.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Pomeroon-Supenaam.private.md) 
 
-### [Pomeroon-Supenaam.secret](/_secret/\Earth\Continent\America~South\Guyana\Regions~GuyanaPomeroon-Supenaam.secret.md)
+### [Pomeroon-Supenaam.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Pomeroon-Supenaam.personal.md) 
+
+### [Pomeroon-Supenaam.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Pomeroon-Supenaam.secret.md)
 

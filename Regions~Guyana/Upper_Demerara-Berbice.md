@@ -41,15 +41,17 @@ markerFolder: ./Upper_Demerara-Berbice/
 
 ## Confidential Links & Embeds: 
 
-### [Upper_Demerara-Berbice.public](/_public/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Demerara-Berbice.public.md) 
+### [Upper_Demerara-Berbice](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.md) 
 
-### [Upper_Demerara-Berbice.internal](/_internal/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Demerara-Berbice.internal.md) 
+### [Upper_Demerara-Berbice.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.public.md) 
 
-### [Upper_Demerara-Berbice.protect](/_protect/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Demerara-Berbice.protect.md) 
+### [Upper_Demerara-Berbice.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.internal.md) 
 
-### [Upper_Demerara-Berbice.private](/_private/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Demerara-Berbice.private.md) 
+### [Upper_Demerara-Berbice.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.protect.md) 
 
-### [Upper_Demerara-Berbice.personal](/_personal/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Demerara-Berbice.personal.md) 
+### [Upper_Demerara-Berbice.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.private.md) 
 
-### [Upper_Demerara-Berbice.secret](/_secret/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Demerara-Berbice.secret.md)
+### [Upper_Demerara-Berbice.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.personal.md) 
+
+### [Upper_Demerara-Berbice.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.secret.md)
 

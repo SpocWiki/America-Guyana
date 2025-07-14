@@ -41,15 +41,17 @@ markerFolder: ./Upper_Takutu-Upper_Essequibo/
 
 ## Confidential Links & Embeds: 
 
-### [Upper_Takutu-Upper_Essequibo.public](/_public/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.public.md) 
+### [Upper_Takutu-Upper_Essequibo](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.md) 
 
-### [Upper_Takutu-Upper_Essequibo.internal](/_internal/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.internal.md) 
+### [Upper_Takutu-Upper_Essequibo.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.public.md) 
 
-### [Upper_Takutu-Upper_Essequibo.protect](/_protect/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.protect.md) 
+### [Upper_Takutu-Upper_Essequibo.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.internal.md) 
 
-### [Upper_Takutu-Upper_Essequibo.private](/_private/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.private.md) 
+### [Upper_Takutu-Upper_Essequibo.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.protect.md) 
 
-### [Upper_Takutu-Upper_Essequibo.personal](/_personal/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.personal.md) 
+### [Upper_Takutu-Upper_Essequibo.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.private.md) 
 
-### [Upper_Takutu-Upper_Essequibo.secret](/_secret/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.secret.md)
+### [Upper_Takutu-Upper_Essequibo.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.personal.md) 
+
+### [Upper_Takutu-Upper_Essequibo.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Essequibo_Islands-West_Demerara/
 
 ## Confidential Links & Embeds: 
 
-### [Essequibo_Islands-West_Demerara.public](/_public/\Earth\Continent\America~South\Guyana\Regions~GuyanaEssequibo_Islands-West_Demerara.public.md) 
+### [Essequibo_Islands-West_Demerara](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.md) 
 
-### [Essequibo_Islands-West_Demerara.internal](/_internal/\Earth\Continent\America~South\Guyana\Regions~GuyanaEssequibo_Islands-West_Demerara.internal.md) 
+### [Essequibo_Islands-West_Demerara.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.public.md) 
 
-### [Essequibo_Islands-West_Demerara.protect](/_protect/\Earth\Continent\America~South\Guyana\Regions~GuyanaEssequibo_Islands-West_Demerara.protect.md) 
+### [Essequibo_Islands-West_Demerara.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.internal.md) 
 
-### [Essequibo_Islands-West_Demerara.private](/_private/\Earth\Continent\America~South\Guyana\Regions~GuyanaEssequibo_Islands-West_Demerara.private.md) 
+### [Essequibo_Islands-West_Demerara.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.protect.md) 
 
-### [Essequibo_Islands-West_Demerara.personal](/_personal/\Earth\Continent\America~South\Guyana\Regions~GuyanaEssequibo_Islands-West_Demerara.personal.md) 
+### [Essequibo_Islands-West_Demerara.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.private.md) 
 
-### [Essequibo_Islands-West_Demerara.secret](/_secret/\Earth\Continent\America~South\Guyana\Regions~GuyanaEssequibo_Islands-West_Demerara.secret.md)
+### [Essequibo_Islands-West_Demerara.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.personal.md) 
+
+### [Essequibo_Islands-West_Demerara.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.secret.md)
 
