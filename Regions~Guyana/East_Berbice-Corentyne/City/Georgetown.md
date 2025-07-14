@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Guyana/City/Georgetown|Georgetown]] 
-- [[../../../../../../_public/geo/Continent/America~South/Guyana/City/Georgetown.public|Georgetown.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Guyana/City/Georgetown.internal|Georgetown.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Guyana/City/Georgetown.protect|Georgetown.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Guyana/City/Georgetown.private|Georgetown.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Guyana/City/Georgetown.personal|Georgetown.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Guyana/City/Georgetown.secret|Georgetown.secret]] 
+
+### [Georgetown.public](/_public/\Earth\Continent\America~South\Guyana\Regions~Guyana\East_Berbice-Corentyne\CityGeorgetown.public.md) 
+
+### [Georgetown.internal](/_internal/\Earth\Continent\America~South\Guyana\Regions~Guyana\East_Berbice-Corentyne\CityGeorgetown.internal.md) 
+
+### [Georgetown.protect](/_protect/\Earth\Continent\America~South\Guyana\Regions~Guyana\East_Berbice-Corentyne\CityGeorgetown.protect.md) 
+
+### [Georgetown.private](/_private/\Earth\Continent\America~South\Guyana\Regions~Guyana\East_Berbice-Corentyne\CityGeorgetown.private.md) 
+
+### [Georgetown.personal](/_personal/\Earth\Continent\America~South\Guyana\Regions~Guyana\East_Berbice-Corentyne\CityGeorgetown.personal.md) 
+
+### [Georgetown.secret](/_secret/\Earth\Continent\America~South\Guyana\Regions~Guyana\East_Berbice-Corentyne\CityGeorgetown.secret.md)
+

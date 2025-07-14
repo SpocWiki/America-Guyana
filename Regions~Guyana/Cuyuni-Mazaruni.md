@@ -40,11 +40,16 @@ markerFolder: ./Cuyuni-Mazaruni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Guyana/Counties/Cuyuni-Mazaruni|Cuyuni-Mazaruni]] 
-- [[../../../../../../_public/geo/Continent/America~South/Guyana/Counties/Cuyuni-Mazaruni.public|Cuyuni-Mazaruni.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Guyana/Counties/Cuyuni-Mazaruni.internal|Cuyuni-Mazaruni.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Guyana/Counties/Cuyuni-Mazaruni.protect|Cuyuni-Mazaruni.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Guyana/Counties/Cuyuni-Mazaruni.private|Cuyuni-Mazaruni.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Guyana/Counties/Cuyuni-Mazaruni.personal|Cuyuni-Mazaruni.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Guyana/Counties/Cuyuni-Mazaruni.secret|Cuyuni-Mazaruni.secret]] 
+
+### [Cuyuni-Mazaruni.public](/_public/\Earth\Continent\America~South\Guyana\Regions~GuyanaCuyuni-Mazaruni.public.md) 
+
+### [Cuyuni-Mazaruni.internal](/_internal/\Earth\Continent\America~South\Guyana\Regions~GuyanaCuyuni-Mazaruni.internal.md) 
+
+### [Cuyuni-Mazaruni.protect](/_protect/\Earth\Continent\America~South\Guyana\Regions~GuyanaCuyuni-Mazaruni.protect.md) 
+
+### [Cuyuni-Mazaruni.private](/_private/\Earth\Continent\America~South\Guyana\Regions~GuyanaCuyuni-Mazaruni.private.md) 
+
+### [Cuyuni-Mazaruni.personal](/_personal/\Earth\Continent\America~South\Guyana\Regions~GuyanaCuyuni-Mazaruni.personal.md) 
+
+### [Cuyuni-Mazaruni.secret](/_secret/\Earth\Continent\America~South\Guyana\Regions~GuyanaCuyuni-Mazaruni.secret.md)
 

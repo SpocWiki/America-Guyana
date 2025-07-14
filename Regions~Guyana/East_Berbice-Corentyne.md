@@ -40,11 +40,16 @@ markerFolder: ./East_Berbice-Corentyne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Guyana/Counties/East_Berbice-Corentyne|East_Berbice-Corentyne]] 
-- [[../../../../../../_public/geo/Continent/America~South/Guyana/Counties/East_Berbice-Corentyne.public|East_Berbice-Corentyne.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Guyana/Counties/East_Berbice-Corentyne.internal|East_Berbice-Corentyne.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Guyana/Counties/East_Berbice-Corentyne.protect|East_Berbice-Corentyne.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Guyana/Counties/East_Berbice-Corentyne.private|East_Berbice-Corentyne.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Guyana/Counties/East_Berbice-Corentyne.personal|East_Berbice-Corentyne.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Guyana/Counties/East_Berbice-Corentyne.secret|East_Berbice-Corentyne.secret]] 
+
+### [East_Berbice-Corentyne.public](/_public/\Earth\Continent\America~South\Guyana\Regions~GuyanaEast_Berbice-Corentyne.public.md) 
+
+### [East_Berbice-Corentyne.internal](/_internal/\Earth\Continent\America~South\Guyana\Regions~GuyanaEast_Berbice-Corentyne.internal.md) 
+
+### [East_Berbice-Corentyne.protect](/_protect/\Earth\Continent\America~South\Guyana\Regions~GuyanaEast_Berbice-Corentyne.protect.md) 
+
+### [East_Berbice-Corentyne.private](/_private/\Earth\Continent\America~South\Guyana\Regions~GuyanaEast_Berbice-Corentyne.private.md) 
+
+### [East_Berbice-Corentyne.personal](/_personal/\Earth\Continent\America~South\Guyana\Regions~GuyanaEast_Berbice-Corentyne.personal.md) 
+
+### [East_Berbice-Corentyne.secret](/_secret/\Earth\Continent\America~South\Guyana\Regions~GuyanaEast_Berbice-Corentyne.secret.md)
 

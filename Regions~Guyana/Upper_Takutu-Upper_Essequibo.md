@@ -40,11 +40,16 @@ markerFolder: ./Upper_Takutu-Upper_Essequibo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo|Upper_Takutu-Upper_Essequibo]] 
-- [[../../../../../../_public/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.public|Upper_Takutu-Upper_Essequibo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.internal|Upper_Takutu-Upper_Essequibo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.protect|Upper_Takutu-Upper_Essequibo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.private|Upper_Takutu-Upper_Essequibo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.personal|Upper_Takutu-Upper_Essequibo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.secret|Upper_Takutu-Upper_Essequibo.secret]] 
+
+### [Upper_Takutu-Upper_Essequibo.public](/_public/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.public.md) 
+
+### [Upper_Takutu-Upper_Essequibo.internal](/_internal/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.internal.md) 
+
+### [Upper_Takutu-Upper_Essequibo.protect](/_protect/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.protect.md) 
+
+### [Upper_Takutu-Upper_Essequibo.private](/_private/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.private.md) 
+
+### [Upper_Takutu-Upper_Essequibo.personal](/_personal/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.personal.md) 
+
+### [Upper_Takutu-Upper_Essequibo.secret](/_secret/\Earth\Continent\America~South\Guyana\Regions~GuyanaUpper_Takutu-Upper_Essequibo.secret.md)
 

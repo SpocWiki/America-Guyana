@@ -130,11 +130,17 @@ Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]
 [has_place_latitude::6.78] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Guyana|Guyana]] 
-- [[../../../../_internal/geo/Continent/America~South/Guyana.internal|Guyana.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Guyana.protect|Guyana.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Guyana.private|Guyana.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Guyana.personal|Guyana.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Guyana.secret|Guyana.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~South\GuyanaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~South\GuyanaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~South\GuyanaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~South\GuyanaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~South\GuyanaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~South\GuyanaReadMe.secret.md)
+
