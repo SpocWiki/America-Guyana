@@ -1,34 +1,35 @@
 ---
 location:
-- 6.78
-- -58.17
+  - 6.78
+  - -58.17
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26915
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Guyana
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Guyana
-- غيانا
-- 圭亚那
-- Гайана
-- the Republic of Guyana
-- la República de Guyana
+  - Guyana
+  - غيانا
+  - 圭亚那
+  - Гайана
+  - the Republic of Guyana
+  - la República de Guyana
 Languages:
-- en-GY
+  - en-GY
 ---
 
 
