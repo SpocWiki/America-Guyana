@@ -84,7 +84,7 @@ Country :: [[../../../../Guyana]]
 [Population::] 
 [Unknown::] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]] 
 
 ## #hasmap 
 

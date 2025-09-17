@@ -118,11 +118,11 @@ Continent :: [[South-America]]
 [VehicleCode::GUY] 
 Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]  
 
-![[Guyana/Coat_of_arms_of_Guyana.svg|450]] 
+![[Coat_of_arms_of_Guyana.svg|450]] 
 
 ![[Anthem-Guyana.mp3]] 
 
-![[Guyana/Flag_of_Guyana.svg|350]] 
+![[Flag_of_Guyana.svg|350]] 
 [Alcohol-l::9.5] 
 [Language-Id::499] 
 #is_a_/Place  
