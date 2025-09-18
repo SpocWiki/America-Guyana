@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Upper_Takutu-Upper_Essequibo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Upper_Takutu-Upper_Essequibo/
 markerFolder: ./Upper_Takutu-Upper_Essequibo/

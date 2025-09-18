@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Upper_Demerara-Berbice
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Upper_Demerara-Berbice/
 markerFolder: ./Upper_Demerara-Berbice/

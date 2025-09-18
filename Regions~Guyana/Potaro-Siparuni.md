@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Potaro-Siparuni
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Potaro-Siparuni/
 markerFolder: ./Potaro-Siparuni/

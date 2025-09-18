@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Pomeroon-Supenaam
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Pomeroon-Supenaam/
 markerFolder: ./Pomeroon-Supenaam/

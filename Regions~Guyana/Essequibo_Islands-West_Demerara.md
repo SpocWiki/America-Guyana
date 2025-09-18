@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Essequibo_Islands-West_Demerara
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Essequibo_Islands-West_Demerara/
 markerFolder: ./Essequibo_Islands-West_Demerara/

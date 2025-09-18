@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: East_Berbice-Corentyne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./East_Berbice-Corentyne/
 markerFolder: ./East_Berbice-Corentyne/
