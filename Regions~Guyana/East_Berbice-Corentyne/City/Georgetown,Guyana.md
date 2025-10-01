@@ -86,12 +86,12 @@ Country :: [[../../../../Guyana]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]] 
 
-## #hasmap 
+## #has_/map 
 
 ```leaflet
 id: Georgetown
-coordinates: [[Georgetown]] 
-markerFile: [[Georgetown]] 
+coordinates: [[Georgetown,Guyana]] 
+markerFile: [[Georgetown,Guyana]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
