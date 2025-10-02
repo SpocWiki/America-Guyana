@@ -92,6 +92,8 @@ Country :: [[../../../../Guyana]]
 id: Georgetown
 coordinates: [[Georgetown,Guyana]] 
 markerFile: [[Georgetown,Guyana]] 
+geojsonFolder: ./Georgetown,Guyana/
+markerFolder: ./Georgetown,Guyana/
 defaultZoom: 11 
 maxZoom: 18
 ```
