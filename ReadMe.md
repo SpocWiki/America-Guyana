@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Guyana
+  - غيانا
+  - 圭亚那
+  - Гайана
+  - the Republic of Guyana
+  - la República de Guyana
+  - ReadMe
 location:
   - 6.78
   - -58.17
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Guyana
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Guyana
-  - غيانا
-  - 圭亚那
-  - Гайана
-  - the Republic of Guyana
-  - la República de Guyana
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-GY
 ---

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - East_Berbice-Corentyne
+  - East Berbice-Corentyne
 location:
   - 6.5
   - -58.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - East_Berbice-Corentyne
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # East_Berbice-Corentyne

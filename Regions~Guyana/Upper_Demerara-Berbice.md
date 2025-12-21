@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Upper_Demerara-Berbice
+  - Upper Demerara-Berbice
 location:
   - 2.8
   - -59
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Upper_Demerara-Berbice
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Upper_Demerara-Berbice

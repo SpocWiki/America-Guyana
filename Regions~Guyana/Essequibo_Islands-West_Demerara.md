@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Essequibo_Islands-West_Demerara
+  - Essequibo Islands-West Demerara
 location:
   - 6.3
   - -57.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Essequibo_Islands-West_Demerara
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Essequibo_Islands-West_Demerara

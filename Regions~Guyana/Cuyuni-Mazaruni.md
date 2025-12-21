@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cuyuni-Mazaruni
 location:
   - 7.2
   - -58.8
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Cuyuni-Mazaruni
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Cuyuni-Mazaruni

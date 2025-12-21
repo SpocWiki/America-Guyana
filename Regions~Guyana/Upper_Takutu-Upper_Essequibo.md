@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Upper_Takutu-Upper_Essequibo
+  - Upper Takutu-Upper Essequibo
 location:
   - 5.5
   - -58.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Upper_Takutu-Upper_Essequibo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Upper_Takutu-Upper_Essequibo

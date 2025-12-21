@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Mahaica-Berbice
 location:
   - 3.9
   - -58.1
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Mahaica-Berbice
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Mahaica-Berbice
