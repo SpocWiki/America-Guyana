@@ -5,11 +5,14 @@ instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
 facet_of: "[[_Standards/WikiData/WD~Guyana,734]]"
 Dewey_Decimal_Classification: "988"
 Commons_category: History of Guyana
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Guyana,1516437]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Guyana,1516437]]"
 ---
 
 # [[History_of_Guyana]] 
 
-#is_/same_as :: [[WD~History_of_Guyana,1516437]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -25,4 +28,21 @@ Commons_category: History of Guyana
 > After his unexpected death in 1985, power was peacefully transferred to Desmond Hoyte, who implemented some democratic reforms, before being voted out in 1992. The People's Progressive Party (PPP/C) served as the country's ruling party from 1992 to 2015. It was unseated following the victory of David Granger's Afro-Guyanese political coalition of A Partnership for National Unity and Alliance for Change (APNU+AFC) in 2015. In 2020, the PPP/C returned as the ruling party of Guyana in a contested election.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Guyana) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Guyana/History_of_Guyana|History_of_Guyana]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Guyana/History_of_Guyana.public|History_of_Guyana.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Guyana/History_of_Guyana.internal|History_of_Guyana.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Guyana/History_of_Guyana.protect|History_of_Guyana.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Guyana/History_of_Guyana.private|History_of_Guyana.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Guyana/History_of_Guyana.personal|History_of_Guyana.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Guyana/History_of_Guyana.secret|History_of_Guyana.secret]] 
 

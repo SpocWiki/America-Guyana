@@ -40,17 +40,17 @@ markerFolder: ./Potaro-Siparuni/
 
 ## Confidential Links & Embeds: 
 
-### [Potaro-Siparuni](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Potaro-Siparuni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Potaro-Siparuni|Potaro-Siparuni]] 
 
-### [Potaro-Siparuni.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Potaro-Siparuni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Potaro-Siparuni.public|Potaro-Siparuni.public]] 
 
-### [Potaro-Siparuni.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Potaro-Siparuni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Potaro-Siparuni.internal|Potaro-Siparuni.internal]] 
 
-### [Potaro-Siparuni.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Potaro-Siparuni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Potaro-Siparuni.protect|Potaro-Siparuni.protect]] 
 
-### [Potaro-Siparuni.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Potaro-Siparuni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Potaro-Siparuni.private|Potaro-Siparuni.private]] 
 
-### [Potaro-Siparuni.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Potaro-Siparuni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Potaro-Siparuni.personal|Potaro-Siparuni.personal]] 
 
-### [Potaro-Siparuni.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Potaro-Siparuni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Potaro-Siparuni.secret|Potaro-Siparuni.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Essequibo_Islands-West_Demerara/
 
 ## Confidential Links & Embeds: 
 
-### [Essequibo_Islands-West_Demerara](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara|Essequibo_Islands-West_Demerara]] 
 
-### [Essequibo_Islands-West_Demerara.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.public|Essequibo_Islands-West_Demerara.public]] 
 
-### [Essequibo_Islands-West_Demerara.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.internal|Essequibo_Islands-West_Demerara.internal]] 
 
-### [Essequibo_Islands-West_Demerara.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.protect|Essequibo_Islands-West_Demerara.protect]] 
 
-### [Essequibo_Islands-West_Demerara.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.private|Essequibo_Islands-West_Demerara.private]] 
 
-### [Essequibo_Islands-West_Demerara.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.personal|Essequibo_Islands-West_Demerara.personal]] 
 
-### [Essequibo_Islands-West_Demerara.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Essequibo_Islands-West_Demerara.secret|Essequibo_Islands-West_Demerara.secret]] 
 

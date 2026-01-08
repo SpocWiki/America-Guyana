@@ -41,17 +41,17 @@ markerFolder: ./East_Berbice-Corentyne/
 
 ## Confidential Links & Embeds: 
 
-### [East_Berbice-Corentyne](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne|East_Berbice-Corentyne]] 
 
-### [East_Berbice-Corentyne.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne.public|East_Berbice-Corentyne.public]] 
 
-### [East_Berbice-Corentyne.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne.internal|East_Berbice-Corentyne.internal]] 
 
-### [East_Berbice-Corentyne.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne.protect|East_Berbice-Corentyne.protect]] 
 
-### [East_Berbice-Corentyne.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne.private|East_Berbice-Corentyne.private]] 
 
-### [East_Berbice-Corentyne.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne.personal|East_Berbice-Corentyne.personal]] 
 
-### [East_Berbice-Corentyne.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne.secret|East_Berbice-Corentyne.secret]] 
 

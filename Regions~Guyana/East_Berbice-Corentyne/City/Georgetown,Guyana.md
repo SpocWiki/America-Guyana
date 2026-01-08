@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -58.17
+dv_has_place_latitude: 6.78
+dv_name: Georgetown
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]]"
+
 has_time_started: 1781-01-01 
 aliases:
 location:
@@ -75,17 +83,17 @@ inception: 1781-01-01T00:00:00Z
 # [[Georgetown,Guyana]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-58.17] 
-[has_place_latitude::6.78] 
-[name::Georgetown] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Guyana]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -114,20 +122,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Georgetown,%20Guyana) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Georgetown](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown,Guyana|Georgetown,Guyana]] 
 
-### [Georgetown.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown,Guyana.public|Georgetown,Guyana.public]] 
 
-### [Georgetown.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown,Guyana.internal|Georgetown,Guyana.internal]] 
 
-### [Georgetown.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown,Guyana.protect|Georgetown,Guyana.protect]] 
 
-### [Georgetown.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown,Guyana.private|Georgetown,Guyana.private]] 
 
-### [Georgetown.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown,Guyana.personal|Georgetown,Guyana.personal]] 
 
-### [Georgetown.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/East_Berbice-Corentyne/City/Georgetown,Guyana.secret|Georgetown,Guyana.secret]] 
 

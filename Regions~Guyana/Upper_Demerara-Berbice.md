@@ -41,17 +41,17 @@ markerFolder: ./Upper_Demerara-Berbice/
 
 ## Confidential Links & Embeds: 
 
-### [Upper_Demerara-Berbice](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Demerara-Berbice|Upper_Demerara-Berbice]] 
 
-### [Upper_Demerara-Berbice.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Demerara-Berbice.public|Upper_Demerara-Berbice.public]] 
 
-### [Upper_Demerara-Berbice.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Demerara-Berbice.internal|Upper_Demerara-Berbice.internal]] 
 
-### [Upper_Demerara-Berbice.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Demerara-Berbice.protect|Upper_Demerara-Berbice.protect]] 
 
-### [Upper_Demerara-Berbice.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Demerara-Berbice.private|Upper_Demerara-Berbice.private]] 
 
-### [Upper_Demerara-Berbice.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Demerara-Berbice.personal|Upper_Demerara-Berbice.personal]] 
 
-### [Upper_Demerara-Berbice.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Demerara-Berbice.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Demerara-Berbice.secret|Upper_Demerara-Berbice.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Barima-Waini/
 
 ## Confidential Links & Embeds: 
 
-### [Barima-Waini](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Barima-Waini.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Barima-Waini|Barima-Waini]] 
 
-### [Barima-Waini.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Barima-Waini.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Barima-Waini.public|Barima-Waini.public]] 
 
-### [Barima-Waini.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Barima-Waini.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Barima-Waini.internal|Barima-Waini.internal]] 
 
-### [Barima-Waini.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Barima-Waini.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Barima-Waini.protect|Barima-Waini.protect]] 
 
-### [Barima-Waini.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Barima-Waini.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Barima-Waini.private|Barima-Waini.private]] 
 
-### [Barima-Waini.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Barima-Waini.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Barima-Waini.personal|Barima-Waini.personal]] 
 
-### [Barima-Waini.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Barima-Waini.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Barima-Waini.secret|Barima-Waini.secret]] 
 

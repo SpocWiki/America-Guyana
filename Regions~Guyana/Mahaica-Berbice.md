@@ -40,17 +40,17 @@ markerFolder: ./Mahaica-Berbice/
 
 ## Confidential Links & Embeds: 
 
-### [Mahaica-Berbice](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Mahaica-Berbice.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Mahaica-Berbice|Mahaica-Berbice]] 
 
-### [Mahaica-Berbice.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Mahaica-Berbice.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Mahaica-Berbice.public|Mahaica-Berbice.public]] 
 
-### [Mahaica-Berbice.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Mahaica-Berbice.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Mahaica-Berbice.internal|Mahaica-Berbice.internal]] 
 
-### [Mahaica-Berbice.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Mahaica-Berbice.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Mahaica-Berbice.protect|Mahaica-Berbice.protect]] 
 
-### [Mahaica-Berbice.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Mahaica-Berbice.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Mahaica-Berbice.private|Mahaica-Berbice.private]] 
 
-### [Mahaica-Berbice.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Mahaica-Berbice.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Mahaica-Berbice.personal|Mahaica-Berbice.personal]] 
 
-### [Mahaica-Berbice.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Mahaica-Berbice.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Mahaica-Berbice.secret|Mahaica-Berbice.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Upper_Takutu-Upper_Essequibo/
 
 ## Confidential Links & Embeds: 
 
-### [Upper_Takutu-Upper_Essequibo](/_Standards/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo|Upper_Takutu-Upper_Essequibo]] 
 
-### [Upper_Takutu-Upper_Essequibo.public](/_public/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.public|Upper_Takutu-Upper_Essequibo.public]] 
 
-### [Upper_Takutu-Upper_Essequibo.internal](/_internal/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.internal|Upper_Takutu-Upper_Essequibo.internal]] 
 
-### [Upper_Takutu-Upper_Essequibo.protect](/_protect/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.protect|Upper_Takutu-Upper_Essequibo.protect]] 
 
-### [Upper_Takutu-Upper_Essequibo.private](/_private/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.private|Upper_Takutu-Upper_Essequibo.private]] 
 
-### [Upper_Takutu-Upper_Essequibo.personal](/_personal/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.personal|Upper_Takutu-Upper_Essequibo.personal]] 
 
-### [Upper_Takutu-Upper_Essequibo.secret](/_secret/Earth/Continent/America~South/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Guyana/Regions~Guyana/Upper_Takutu-Upper_Essequibo.secret|Upper_Takutu-Upper_Essequibo.secret]] 
 
