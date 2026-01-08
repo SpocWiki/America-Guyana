@@ -39,15 +39,13 @@ dv_ISO4217-currency_country_name: GUYANA
 dv_Telephone: 592
 dv_Global: true
 dv_Global_Name: World
-dv_name: Guyana
-dv_name-en:
-  - Guyana
-  - Guyana
-dv_name-es: Guyana
-dv_name-fr: Guyana
-dv_name-cn: 圭亚那
-dv_name-ar: غيانا
-dv_name-ru: Гайана
+dv_has_name_: Guyana
+dv_has_name_en: Guyana
+dv_has_name_es: Guyana
+dv_has_name_fr: Guyana
+dv_has_name_cn: 圭亚那
+dv_has_name_ar: غيانا
+dv_has_name_ru: Гайана
 dv_CLDR_display_name: Guyana
 dv_UNTERM_English: Guyana
 dv_UNTERM_English_Formal: the Republic of Guyana
@@ -86,7 +84,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 328
 dv_ISO2: GY
 dv_ISO3: GUY
-dv_name-de: Guyana
+dv_has_name_de: Guyana
 dv_Area-Total: 214969
 dv_Area-Land: 196850
 dv_Continent: "[[South-America]]"
@@ -113,12 +111,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Guyana ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Guyana ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -178,8 +176,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Guyana] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Guyana] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

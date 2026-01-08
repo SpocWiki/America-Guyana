@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -58.17
 dv_has_place_latitude: 6.78
-dv_name: Georgetown
+dv_has_name_: Georgetown
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]]"
