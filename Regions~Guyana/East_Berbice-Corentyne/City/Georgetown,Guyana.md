@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -58.17
 dv_has_place_latitude: 6.78
-dv_has_name_: Georgetown
+dv_has_name: Georgetown
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Georgetown,10717|WD~Georgetown,10717]]"
@@ -86,7 +86,7 @@ inception: 1781-01-01T00:00:00Z
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Guyana]]  
 [StateId::] 
