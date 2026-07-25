@@ -715,7 +715,7 @@ dv_ISO2: GY
 dv_ISO3: GUY
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Guyana,734|WD~Guyana,734]]'
+  - '[[../../../../../WikiData/WD~Guyana,734|WD~Guyana,734]]'
   - '[[/_Standards/Earth/Continent/America~South/Guianas/Guyana|Guyana]]'
   - '[[/_public/Earth/Continent/America~South/Guianas/Guyana.public|Guyana.public]]'
   - '[[/_internal/Earth/Continent/America~South/Guianas/Guyana.internal|Guyana.internal]]'
@@ -735,7 +735,7 @@ dv_has_place_latitude: 6.78
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Guyana
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Guyana,734|WD~Guyana,734]]'
+- '[[../../../../../WikiData/WD~Guyana,734|WD~Guyana,734]]'
 - '[[/_Standards/Earth/Continent/America~South/Guianas/Guyana|Guyana]]'
 - '[[/_public/Earth/Continent/America~South/Guianas/Guyana.public|Guyana.public]]'
 - '[[/_internal/Earth/Continent/America~South/Guianas/Guyana.internal|Guyana.internal]]'
@@ -753,7 +753,7 @@ Unicode_character: 🇬🇾
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Guyana/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -821,7 +821,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Guyana,734|WD~Guyana,734]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Guyana,734|WD~Guyana,734]] 
 
 ## #has_/map  
 
@@ -840,7 +840,7 @@ markerFile: [[Guyana]]
 
 ```leaflet
 id: Guyana_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -864,13 +864,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown|Georgetown]]  
+Capital :: [[Counties/East_Berbice-Corentyne/City/Georgetown|Georgetown]]  
 
-![[Guyana/Coat_of_arms_of_Guyana.svg|450]]
+![[Coat_of_arms_of_Guyana.svg|450]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Guyana.mp3|Anthem-Guyana.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Guyana.mp3|Anthem-Guyana.mp3]]
 
-![[Guyana/Flag_of_Guyana.svg|350]]
+![[Flag_of_Guyana.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 has_place_longitude = `=this.dv_has_place_longitude`
